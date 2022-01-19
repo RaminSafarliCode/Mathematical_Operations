@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5978b82-cdd2-4422-8af4-5ae2702b52b7": {
+      "ProjectGuid": "c5978b82-cdd2-4422-8af4-5ae2702b52b7",
+      "DisplayName": "Is_73_even_or_odd",
+      "ColorIndex": 0
+    },
+    "20982248-8195-46cc-9050-89d2d04a26b3": {
+      "ProjectGuid": "20982248-8195-46cc-9050-89d2d04a26b3",
+      "DisplayName": "The_number_can_be_divided_by_4_or_not",
+      "ColorIndex": 1
+    },
+    "c3eb4e3c-4d6a-48ff-9151-a2bac35e53dc": {
+      "ProjectGuid": "c3eb4e3c-4d6a-48ff-9151-a2bac35e53dc",
+      "DisplayName": "Sum_Multiplication_Division",
+      "ColorIndex": 2
+    },
+    "ce5f65d6-62dd-46b3-bafc-d8f59ed3e469": {
+      "ProjectGuid": "ce5f65d6-62dd-46b3-bafc-d8f59ed3e469",
+      "DisplayName": "OddNumbersBetween1-50",
+      "ColorIndex": 3
+    },
+    "2ea311b0-c584-4be1-9982-20d86855f6b4": {
+      "ProjectGuid": "2ea311b0-c584-4be1-9982-20d86855f6b4",
+      "DisplayName": "Numbers_divided_by_3and5_between_1and50",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

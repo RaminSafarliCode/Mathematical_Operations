@@ -1,0 +1,15 @@
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\bin\Debug\net5.0\Sum_Multiplication_Division.exe
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\bin\Debug\net5.0\Sum_Multiplication_Division.deps.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\bin\Debug\net5.0\Sum_Multiplication_Division.runtimeconfig.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\bin\Debug\net5.0\Sum_Multiplication_Division.runtimeconfig.dev.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\bin\Debug\net5.0\Sum_Multiplication_Division.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\bin\Debug\net5.0\ref\Sum_Multiplication_Division.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\bin\Debug\net5.0\Sum_Multiplication_Division.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\obj\Debug\net5.0\Sum_Multiplication_Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\obj\Debug\net5.0\Sum_Multiplication_Division.AssemblyInfoInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\obj\Debug\net5.0\Sum_Multiplication_Division.AssemblyInfo.cs
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\obj\Debug\net5.0\Sum_Multiplication_Division.csproj.CoreCompileInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\obj\Debug\net5.0\Sum_Multiplication_Division.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\obj\Debug\net5.0\ref\Sum_Multiplication_Division.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\obj\Debug\net5.0\Sum_Multiplication_Division.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Sum_Multiplication_Division\obj\Debug\net5.0\Sum_Multiplication_Division.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\bin\Debug\net5.0\The_number_can_be_divided_by_4_or_not.exe
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\bin\Debug\net5.0\The_number_can_be_divided_by_4_or_not.deps.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\bin\Debug\net5.0\The_number_can_be_divided_by_4_or_not.runtimeconfig.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\bin\Debug\net5.0\The_number_can_be_divided_by_4_or_not.runtimeconfig.dev.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\bin\Debug\net5.0\The_number_can_be_divided_by_4_or_not.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\bin\Debug\net5.0\ref\The_number_can_be_divided_by_4_or_not.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\bin\Debug\net5.0\The_number_can_be_divided_by_4_or_not.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\obj\Debug\net5.0\The_number_can_be_divided_by_4_or_not.csproj.AssemblyReference.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\obj\Debug\net5.0\The_number_can_be_divided_by_4_or_not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\obj\Debug\net5.0\The_number_can_be_divided_by_4_or_not.AssemblyInfoInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\obj\Debug\net5.0\The_number_can_be_divided_by_4_or_not.AssemblyInfo.cs
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\obj\Debug\net5.0\The_number_can_be_divided_by_4_or_not.csproj.CoreCompileInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\obj\Debug\net5.0\The_number_can_be_divided_by_4_or_not.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\obj\Debug\net5.0\ref\The_number_can_be_divided_by_4_or_not.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\obj\Debug\net5.0\The_number_can_be_divided_by_4_or_not.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\The_number_can_be_divided_by_4_or_not\obj\Debug\net5.0\The_number_can_be_divided_by_4_or_not.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\bin\Debug\net5.0\Is_73_even_or_odd.exe
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\bin\Debug\net5.0\Is_73_even_or_odd.deps.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\bin\Debug\net5.0\Is_73_even_or_odd.runtimeconfig.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\bin\Debug\net5.0\Is_73_even_or_odd.runtimeconfig.dev.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\bin\Debug\net5.0\Is_73_even_or_odd.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\bin\Debug\net5.0\ref\Is_73_even_or_odd.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\bin\Debug\net5.0\Is_73_even_or_odd.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\obj\Debug\net5.0\Is_73_even_or_odd.csproj.AssemblyReference.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\obj\Debug\net5.0\Is_73_even_or_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\obj\Debug\net5.0\Is_73_even_or_odd.AssemblyInfoInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\obj\Debug\net5.0\Is_73_even_or_odd.AssemblyInfo.cs
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\obj\Debug\net5.0\Is_73_even_or_odd.csproj.CoreCompileInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\obj\Debug\net5.0\Is_73_even_or_odd.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\obj\Debug\net5.0\ref\Is_73_even_or_odd.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\obj\Debug\net5.0\Is_73_even_or_odd.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Is_73_even_or_odd\obj\Debug\net5.0\Is_73_even_or_odd.genruntimeconfig.cache

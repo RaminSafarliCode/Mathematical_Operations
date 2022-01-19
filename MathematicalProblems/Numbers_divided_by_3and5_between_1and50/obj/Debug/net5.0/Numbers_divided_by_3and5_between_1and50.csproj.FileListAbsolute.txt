@@ -1,0 +1,16 @@
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\obj\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.csproj.AssemblyReference.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\obj\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\obj\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.AssemblyInfoInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\obj\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.AssemblyInfo.cs
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\obj\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.csproj.CoreCompileInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\bin\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.exe
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\bin\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.deps.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\bin\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.runtimeconfig.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\bin\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.runtimeconfig.dev.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\bin\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\bin\Debug\net5.0\ref\Numbers_divided_by_3and5_between_1and50.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\bin\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\obj\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\obj\Debug\net5.0\ref\Numbers_divided_by_3and5_between_1and50.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\obj\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\Numbers_divided_by_3and5_between_1and50\obj\Debug\net5.0\Numbers_divided_by_3and5_between_1and50.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\bin\Debug\net5.0\OddNumbersBetween1-50.exe
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\bin\Debug\net5.0\OddNumbersBetween1-50.deps.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\bin\Debug\net5.0\OddNumbersBetween1-50.runtimeconfig.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\bin\Debug\net5.0\OddNumbersBetween1-50.runtimeconfig.dev.json
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\bin\Debug\net5.0\OddNumbersBetween1-50.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\bin\Debug\net5.0\ref\OddNumbersBetween1-50.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\bin\Debug\net5.0\OddNumbersBetween1-50.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\obj\Debug\net5.0\OddNumbersBetween1-50.csproj.AssemblyReference.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\obj\Debug\net5.0\OddNumbersBetween1-50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\obj\Debug\net5.0\OddNumbersBetween1-50.AssemblyInfoInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\obj\Debug\net5.0\OddNumbersBetween1-50.AssemblyInfo.cs
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\obj\Debug\net5.0\OddNumbersBetween1-50.csproj.CoreCompileInputs.cache
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\obj\Debug\net5.0\OddNumbersBetween1-50.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\obj\Debug\net5.0\ref\OddNumbersBetween1-50.dll
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\obj\Debug\net5.0\OddNumbersBetween1-50.pdb
+C:\Users\ramin\Desktop\Carrier\Code Academy\MathematicalProblems\OddNumbersBetween1-50\obj\Debug\net5.0\OddNumbersBetween1-50.genruntimeconfig.cache
